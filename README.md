@@ -35,7 +35,7 @@ My main tech stack includes **RAG (Retrieval-Augmented Generation)**, **Spring B
 - Spring Boot Security & AI integration  
 
 ⚡ **Fun fact**  
-- I enjoy breaking down complex AI concepts into simple mental models 🚀  
+- I enjoy working with backend part of an application and breaking down complex AI concepts into simple mental models 🚀  
 
 ---
 
