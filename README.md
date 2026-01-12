@@ -118,10 +118,12 @@ My main tech stack includes **RAG (Retrieval-Augmented Generation)**, **Spring B
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=himanshu0508raturi&theme=dark&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=himanshu0508raturi&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0508raturi&theme=dark&layout=compact)
+
+
+<!-- Using GitHub Profile Summary Cards -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshu0508Raturi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Himanshu0508Raturi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himanshu0508Raturi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himanshu0508Raturi&theme=github_dark)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=himanshu0508raturi&icon=0&color=0)](https://visitcount.itsvg.in)
